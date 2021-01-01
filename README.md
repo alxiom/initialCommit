@@ -16,13 +16,14 @@
     + 주 skill set `unity`, `python`
     + 20XX년 GOTY 수상작 "XXX" 단독 개발자
 + 조조
-    + Stanford univ. PhD 진행 중
+    + Stanford Univ. PhD 진행 중
     + 주 skill set `C++`, `C`
     + 20XX년 3대 딥러닝 학회 억셉
 + 시련
     + Berkshire Hathaway Inc. 근무
     + 주 skill set `python`, `R`
     + 20XX년 계약 연봉 26억 4천만원
+    + 교보문고 자기계발 12주 연속 베스트셀러 `메시지를 보내고 취소했지만 이미 박제되었던 건에 대하여` 저자
 + 준벝
     + Google LLC 근무
     + 주 skill set `python`, `cuda`
